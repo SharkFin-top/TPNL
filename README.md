@@ -4,7 +4,7 @@
 
 # 简介
 
-*TPNL(Translate Papers into Native Languages)*宏观上是一项鼓励将外语论文翻译为母语的开源项目。
+*TPNL(Translate Papers into Native Languages)* 宏观上是一项鼓励将外语论文翻译为母语的开源项目。
 
 **目前，从形式上，着眼于鼓励中国人发表的英文论文，其自行翻译成中文版本，并进行公开。**
 
